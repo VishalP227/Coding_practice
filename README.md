@@ -1,2 +1,2 @@
 # Coding_practice
-This repo has programs to leetcode and other programming questions
+This repo has my solutions to leetcode and other programming questions
